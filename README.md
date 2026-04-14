@@ -1,2 +1,2 @@
 # facebook-copy
-This is a carbon copy of facebook.
+This is a copy of the login page of Facebook. Currently still underprogess for the backend.
